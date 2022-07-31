@@ -1,0 +1,12 @@
+.idea/misc.xml
+.idea/Unet3D.iml
+*.xml
+*.iml
+.idea/shelf/Uncommitted_changes_before_Checkout_at_7-7-007_11_43_上午_[Default_Changelist]/shelved.patch
+.DS_Store
+.sync.ffs_db
+*.pyc
+/ori_img/
+/Save/
+/res/
+/img/

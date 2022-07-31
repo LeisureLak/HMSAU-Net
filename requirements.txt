@@ -1,0 +1,12 @@
+monai-weekly==0.6.dev2127
+numpy==1.20.3
+scikit-image==0.18.1
+torch==1.9.0
+torchvision==0.10.0
+tensorboard==2.5.0
+scipy==1.7.1
+matplotlib==3.4.3
+nibabel==3.1.1
+simpleitk==2.1.1
+tqdm==4.59.0
+einops==0.3.0
