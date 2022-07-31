@@ -2,6 +2,8 @@
 
 > Automatic Detection Adenoid Hypertrophy in CBCT Based on Deep Learning
 
+![流程图github](https://user-images.githubusercontent.com/24643110/182013346-dab4796c-40fd-4399-8423-48f10defb032.png)
+
 ## Train HMSAU-Net with your own dataset
 1. Unzip all files to your working directory.
 2. Create a folder named output at your working directory.
@@ -14,5 +16,3 @@
 ## Test HMSAU-Net
 1. Execute command: "CUDA_VISIBLE_DEVICES=0 nohup python -u Test_saunet.py &".
 2. Execute command: "tail -f nohup.out" for validating detail inspection.
-
-![流程图github](https://user-images.githubusercontent.com/24643110/182013346-dab4796c-40fd-4399-8423-48f10defb032.png)
